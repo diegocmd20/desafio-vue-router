@@ -1,5 +1,5 @@
-<template lang="">
-  <nav class="navbar navbar-expand-lg navbar-light fixed-top">
+<template>
+  <nav class="navbar navbar-expand-lg navbar-light">
     <div class="container px-4">
       <router-link class="navbar-brand" to="/home"><img src="../assets/logo.svg" alt="logo de suricata" /></router-link>
       <button class="navbar-toggler navbar-dark border-light" type="button" data-bs-toggle="collapse"

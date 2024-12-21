@@ -16,8 +16,8 @@ export default {
 
 <template>
     <Navbar />
-
-  <RouterView />
+    
+    <RouterView />
   
 
   <MediosPago />
