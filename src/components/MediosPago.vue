@@ -8,24 +8,24 @@
           </h2>
         </div>
         <div class="col-7">
-          <div class="row text-light">
+          <div class="row text-white">
             <div class="col-2">
-              <i class="fab fa-cc-mastercard fa-4x"></i>
+              <i class="fa-brands fa-cc-mastercard fa-4x"></i>
             </div>
             <div class="col-2">
-              <i class="fab fa-cc-visa fa-4x"></i>
+              <i class="fa-brands fa-cc-visa fa-4x"></i>
             </div>
             <div class="col-2">
-              <i class="fab fa-cc-amex fa-4x"></i>
+              <i class="fa-brands fa-cc-amex fa-4x"></i>
             </div>
             <div class="col-2">
-              <i class="fab fa-cc-diners-club fa-4x"></i>
+              <i class="fa-brands fa-cc-diners-club fa-4x"></i>
             </div>
             <div class="col-2">
-              <i class="fab fa-cc-paypal fa-4x"></i>
+              <i class="fa-brands fa-cc-paypal fa-4x"></i>
             </div>
             <div class="col-2">
-              <i class="fab fa-cc-discover fa-4x"></i>
+              <i class="fa-brands fa-cc-discover fa-4x"></i>
             </div>
           </div>
         </div>
